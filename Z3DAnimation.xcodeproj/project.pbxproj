@@ -14,6 +14,14 @@
 		89C0172F1E2DDC3100B58605 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89C0172D1E2DDC3100B58605 /* LaunchScreen.storyboard */; };
 		89C0173A1E2DDC3100B58605 /* Z3DAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C017391E2DDC3100B58605 /* Z3DAnimationTests.swift */; };
 		89C017451E2DDC3100B58605 /* Z3DAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C017441E2DDC3100B58605 /* Z3DAnimationUITests.swift */; };
+		89C0175A1E2DDC5100B58605 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017521E2DDC5100B58605 /* 11.jpg */; };
+		89C0175B1E2DDC5100B58605 /* 22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017531E2DDC5100B58605 /* 22.jpg */; };
+		89C0175C1E2DDC5100B58605 /* 33.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017541E2DDC5100B58605 /* 33.jpg */; };
+		89C0175D1E2DDC5100B58605 /* 44.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017551E2DDC5100B58605 /* 44.jpg */; };
+		89C0175E1E2DDC5100B58605 /* 55.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017561E2DDC5100B58605 /* 55.jpg */; };
+		89C0175F1E2DDC5100B58605 /* 66.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017571E2DDC5100B58605 /* 66.jpg */; };
+		89C017601E2DDC5100B58605 /* 77.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89C017581E2DDC5100B58605 /* 77.jpg */; };
+		89C017611E2DDC5100B58605 /* Z3DCircleAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C017591E2DDC5100B58605 /* Z3DCircleAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		89C017401E2DDC3100B58605 /* Z3DAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Z3DAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		89C017441E2DDC3100B58605 /* Z3DAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Z3DAnimationUITests.swift; sourceTree = "<group>"; };
 		89C017461E2DDC3100B58605 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89C017521E2DDC5100B58605 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		89C017531E2DDC5100B58605 /* 22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 22.jpg; sourceTree = "<group>"; };
+		89C017541E2DDC5100B58605 /* 33.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 33.jpg; sourceTree = "<group>"; };
+		89C017551E2DDC5100B58605 /* 44.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 44.jpg; sourceTree = "<group>"; };
+		89C017561E2DDC5100B58605 /* 55.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 55.jpg; sourceTree = "<group>"; };
+		89C017571E2DDC5100B58605 /* 66.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 66.jpg; sourceTree = "<group>"; };
+		89C017581E2DDC5100B58605 /* 77.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 77.jpg; sourceTree = "<group>"; };
+		89C017591E2DDC5100B58605 /* Z3DCircleAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Z3DCircleAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +115,14 @@
 			children = (
 				89C017241E2DDC3000B58605 /* AppDelegate.swift */,
 				89C017261E2DDC3000B58605 /* ViewController.swift */,
+				89C017521E2DDC5100B58605 /* 11.jpg */,
+				89C017531E2DDC5100B58605 /* 22.jpg */,
+				89C017541E2DDC5100B58605 /* 33.jpg */,
+				89C017551E2DDC5100B58605 /* 44.jpg */,
+				89C017561E2DDC5100B58605 /* 55.jpg */,
+				89C017571E2DDC5100B58605 /* 66.jpg */,
+				89C017581E2DDC5100B58605 /* 77.jpg */,
+				89C017591E2DDC5100B58605 /* Z3DCircleAnimationView.swift */,
 				89C017281E2DDC3000B58605 /* Main.storyboard */,
 				89C0172B1E2DDC3100B58605 /* Assets.xcassets */,
 				89C0172D1E2DDC3100B58605 /* LaunchScreen.storyboard */,
@@ -235,9 +259,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89C0175F1E2DDC5100B58605 /* 66.jpg in Resources */,
+				89C0175D1E2DDC5100B58605 /* 44.jpg in Resources */,
+				89C0175B1E2DDC5100B58605 /* 22.jpg in Resources */,
 				89C0172F1E2DDC3100B58605 /* LaunchScreen.storyboard in Resources */,
 				89C0172C1E2DDC3100B58605 /* Assets.xcassets in Resources */,
+				89C017601E2DDC5100B58605 /* 77.jpg in Resources */,
+				89C0175C1E2DDC5100B58605 /* 33.jpg in Resources */,
 				89C0172A1E2DDC3000B58605 /* Main.storyboard in Resources */,
+				89C0175A1E2DDC5100B58605 /* 11.jpg in Resources */,
+				89C0175E1E2DDC5100B58605 /* 55.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +295,7 @@
 			files = (
 				89C017271E2DDC3000B58605 /* ViewController.swift in Sources */,
 				89C017251E2DDC3000B58605 /* AppDelegate.swift in Sources */,
+				89C017611E2DDC5100B58605 /* Z3DCircleAnimationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +447,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = VALQ39Y9P2;
 				INFOPLIST_FILE = Z3DAnimation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zyx.Z3DAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -428,6 +461,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = VALQ39Y9P2;
 				INFOPLIST_FILE = Z3DAnimation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zyx.Z3DAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
